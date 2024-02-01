@@ -1,16 +1,9 @@
-# forecast_app
+# UI of Weather-Forecast page
 
-A new Flutter project.
+## Flutter&Dart
 
-## Getting Started
+![Screenshot_20240201_091149](https://github.com/sofiyakamalova/UI-weather-forecast/assets/116626295/eaa73e6a-1e8e-4efa-9d20-edacb30c4ef7)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
